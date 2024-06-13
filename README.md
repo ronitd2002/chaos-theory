@@ -1,3 +1,3 @@
-# Chaos Theory [scripts and self-projects]
+# Chaos Theory (scripts and projects)
 
 ### Phase-space plots and code in `Order & Chaos - Assignments.ipynb`.
